@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 50px;
+}
+
+.color-button {
+  padding: 10px 20px;
+  margin: 5px;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+#red {
+    background-color: red;
+    color: white;
+}
+
+#green {
+    background-color: green;
+    color: white;
+}
+
+#blue {
+    background-color: blue;
+    color: white;
+}
